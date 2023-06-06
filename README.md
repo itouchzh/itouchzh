@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=itouchzh&show_icons=true)
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=itouchzh&layout=compact)
-![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=itouchzh&repo=phoneweb-base&theme=dark)
+<!-- ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=itouchzh&repo=phoneweb-base&theme=dark) -->
 
 ![Visitor Count](https://profile-counter.glitch.me/{ubrong}/count.svg)
 
